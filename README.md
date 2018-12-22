@@ -7,4 +7,4 @@
 </p>
 
 ## Örnek Görsel:
-![Preview](https://i.imgur.com/NP8TKyP.png)
+<div align="center"><img src="https://i.imgur.com/NP8TKyP.png" alt="resim"></div>
