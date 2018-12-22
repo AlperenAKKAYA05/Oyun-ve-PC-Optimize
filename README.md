@@ -1,6 +1,6 @@
 # Oyun-ve-PC-Optimize
 <p align="center">
-<p align="center">Ben sadece kendi düzenleme ve eklemelerimi yaptım Asıl Orjinal Projeye gitmek için <a href="https://github.com/ssilistre/Bilgisayar-ve-Oyun-Optimize-Programi">'GİT'</a> yazısına tıklayın.</p>
+<p align="center">Ben sadece kendi düzenleme ve eklemelerimi yaptım. Asıl proje sahibinin projesine gitmek için <a href="https://github.com/ssilistre/Bilgisayar-ve-Oyun-Optimize-Programi">'GİT'</a> yazısına tıklayın.</p>
 <br><h1 align="center"><a href="https://github.com/ssilistre/Bilgisayar-ve-Oyun-Optimize-Programi">GİT
   </a>
 </h1>
